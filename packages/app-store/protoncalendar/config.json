@@ -1,0 +1,11 @@
+{
+  "name": "Proton Calendar",
+  "slug": "protoncalendar",
+  "type": "proton_calendar",
+  "variant": "calendar",
+  "categories": ["calendar"],
+  "publisher": "atukumbwike-cmd",
+  "description": "Connect your Proton Calendar via read-only ICS feed for availability checking.",
+  "isGlobal": false,
+  "dirName": "protoncalendar"
+}
