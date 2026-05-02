@@ -1,11 +1,16 @@
 {
-  "name": "Proton Calendar",
-  "slug": "protoncalendar",
+  "slug": "proton-calendar",
   "type": "proton_calendar",
+  "name": "Proton Calendar",
+  "description": "Connect your Proton Calendar to sync your events.",
   "variant": "calendar",
   "categories": ["calendar"],
+  "logo": "https://raw.githubusercontent.com/calcom/cal.com/main/packages/app-store/protoncalendar/logo.svg",
   "publisher": "atukumbwike-cmd",
-  "description": "Connect your Proton Calendar via read-only ICS feed for availability checking.",
-  "isGlobal": false,
-  "dirName": "protoncalendar"
+  "url": "https://proton.me/calendar",
+  "email": "support@proton.me",
+  "appData": {
+    "location": "link",
+    "privacy": "private"
+  }
 }
